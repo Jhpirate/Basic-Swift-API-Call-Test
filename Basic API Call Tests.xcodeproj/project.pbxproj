@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		77420E082B3000D8005BE09E /* Basic API Call Tesat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Basic API Call Tesat.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		77420E082B3000D8005BE09E /* Basic API Call Tests.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Basic API Call Tests.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		77420E0B2B3000D8005BE09E /* Basic_API_Call_TesatApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Basic_API_Call_TesatApp.swift; sourceTree = "<group>"; };
 		77420E0D2B3000D8005BE09E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		77420E0F2B3000DC005BE09E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		77420E092B3000D8005BE09E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				77420E082B3000D8005BE09E /* Basic API Call Tesat.app */,
+				77420E082B3000D8005BE09E /* Basic API Call Tests.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		77420E072B3000D8005BE09E /* Basic API Call Tesat */ = {
+		77420E072B3000D8005BE09E /* Basic API Call Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 77420E162B3000DC005BE09E /* Build configuration list for PBXNativeTarget "Basic API Call Tesat" */;
+			buildConfigurationList = 77420E162B3000DC005BE09E /* Build configuration list for PBXNativeTarget "Basic API Call Tests" */;
 			buildPhases = (
 				77420E042B3000D8005BE09E /* Sources */,
 				77420E052B3000D8005BE09E /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "Basic API Call Tesat";
+			name = "Basic API Call Tests";
 			productName = "Basic API Call Tesat";
-			productReference = 77420E082B3000D8005BE09E /* Basic API Call Tesat.app */;
+			productReference = 77420E082B3000D8005BE09E /* Basic API Call Tests.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 77420E032B3000D8005BE09E /* Build configuration list for PBXProject "Basic API Call Tesat" */;
+			buildConfigurationList = 77420E032B3000D8005BE09E /* Build configuration list for PBXProject "Basic API Call Tests" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				77420E072B3000D8005BE09E /* Basic API Call Tesat */,
+				77420E072B3000D8005BE09E /* Basic API Call Tests */,
 			);
 		};
 /* End PBXProject section */
@@ -285,7 +285,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.jaredheeringa.Basic-API-Call-Tesat";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.jaredheeringa.Basic-API-Call-Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -314,7 +314,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.jaredheeringa.Basic-API-Call-Tesat";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.jaredheeringa.Basic-API-Call-Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -325,7 +325,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		77420E032B3000D8005BE09E /* Build configuration list for PBXProject "Basic API Call Tesat" */ = {
+		77420E032B3000D8005BE09E /* Build configuration list for PBXProject "Basic API Call Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				77420E142B3000DC005BE09E /* Debug */,
@@ -334,7 +334,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		77420E162B3000DC005BE09E /* Build configuration list for PBXNativeTarget "Basic API Call Tesat" */ = {
+		77420E162B3000DC005BE09E /* Build configuration list for PBXNativeTarget "Basic API Call Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				77420E172B3000DC005BE09E /* Debug */,
