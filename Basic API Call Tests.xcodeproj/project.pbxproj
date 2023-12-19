@@ -11,6 +11,9 @@
 		77420E0E2B3000D8005BE09E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77420E0D2B3000D8005BE09E /* ContentView.swift */; };
 		77420E102B3000DC005BE09E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77420E0F2B3000DC005BE09E /* Assets.xcassets */; };
 		77420E132B3000DC005BE09E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77420E122B3000DC005BE09E /* Preview Assets.xcassets */; };
+		7742B7EB2B313DE200021A2F /* CatFacts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7742B7EA2B313DE200021A2F /* CatFacts.swift */; };
+		7742B7ED2B31426900021A2F /* CatFactsFactGrabber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7742B7EC2B31426900021A2F /* CatFactsFactGrabber.swift */; };
+		7742B7EF2B31494A00021A2F /* CatImageGrabber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7742B7EE2B31494A00021A2F /* CatImageGrabber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		77420E0D2B3000D8005BE09E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		77420E0F2B3000DC005BE09E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		77420E122B3000DC005BE09E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7742B7EA2B313DE200021A2F /* CatFacts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatFacts.swift; sourceTree = "<group>"; };
+		7742B7EC2B31426900021A2F /* CatFactsFactGrabber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatFactsFactGrabber.swift; sourceTree = "<group>"; };
+		7742B7EE2B31494A00021A2F /* CatImageGrabber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatImageGrabber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				77420E0B2B3000D8005BE09E /* Basic_API_Call_TesatApp.swift */,
 				77420E0D2B3000D8005BE09E /* ContentView.swift */,
+				7742B7EA2B313DE200021A2F /* CatFacts.swift */,
+				7742B7EC2B31426900021A2F /* CatFactsFactGrabber.swift */,
+				7742B7EE2B31494A00021A2F /* CatImageGrabber.swift */,
 				77420E0F2B3000DC005BE09E /* Assets.xcassets */,
 				77420E112B3000DC005BE09E /* Preview Content */,
 			);
@@ -137,6 +146,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7742B7ED2B31426900021A2F /* CatFactsFactGrabber.swift in Sources */,
+				7742B7EB2B313DE200021A2F /* CatFacts.swift in Sources */,
+				7742B7EF2B31494A00021A2F /* CatImageGrabber.swift in Sources */,
 				77420E0E2B3000D8005BE09E /* ContentView.swift in Sources */,
 				77420E0C2B3000D8005BE09E /* Basic_API_Call_TesatApp.swift in Sources */,
 			);
